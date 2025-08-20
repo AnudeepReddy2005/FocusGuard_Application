@@ -1,0 +1,40 @@
+{
+    "anudeep": {
+        "name": "anudeep",
+        "password": "Anu@2005",
+        "father_name": "venkat",
+        "mother_name": "saritha",
+        "life_goals": [
+            "engineer"
+        ],
+        "family_problems": [
+            "money"
+        ],
+        "past_insults": [
+            "principal scolded me"
+        ],
+        "parent_quotes": [
+            "Be motivated...."
+        ]
+    },
+    "Anudeep": {
+        "name": "Anudeep",
+        "password": "Anu@2005",
+        "father_name": "Venkat",
+        "mother_name": "Saritha",
+        "life_goals": [
+            "Becoming good software developer",
+            "Becoming animal helper"
+        ],
+        "family_problems": [
+            "Financial Problems"
+        ],
+        "past_insults": [
+            "Biology Teacher Scolded Me...",
+            "My Friend Called Me Fool..."
+        ],
+        "parent_quotes": [
+            "The Journey of Thousand Miles Begins With one Step"
+        ]
+    }
+}
