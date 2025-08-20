@@ -26,4 +26,4 @@ Students often get distracted by YouTube, games, and social media while studying
 **Report**  
 ![Report](https://github.com/AnudeepReddy2005/FocusGuard_Application/raw/main/Project_Pics/report.jpg)  
  
-!
+
