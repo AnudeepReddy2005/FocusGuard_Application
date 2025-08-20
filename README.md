@@ -3,25 +3,25 @@ Students often get distracted by YouTube, games, and social media while studying
 
 
 
-## Project Screenshots  
+## Project Screenshots
 
 **Homepage**  
-![Homepage](https://github.com/AnudeepReddy2005/FocusGuard_Application/blob/main/FocusGuard/Project_Pics/home.jpg?raw=true)  
+![Homepage](https://github.com/AnudeepReddy2005/FocusGuard_Application/raw/main/Project_Pics/home.png?raw=true)
 
 **Registration**  
-![Registration](https://github.com/AnudeepReddy2005/FocusGuard_Application/blob/main/FocusGuard/Project_Pics/registration.jpg?raw=true)  
+![Registration](https://github.com/AnudeepReddy2005/FocusGuard_Application/raw/main/Project_Pics/registration.jpg?raw=true)
 
 **Login**  
-![Login](https://github.com/AnudeepReddy2005/FocusGuard_Application/blob/main/FocusGuard/Project_Pics/login.jpg?raw=true)  
+![Login](https://github.com/AnudeepReddy2005/FocusGuard_Application/raw/main/Project_Pics/login.jpg?raw=true)
 
 **Tasks & App Selection**  
-![Tasks](https://github.com/AnudeepReddy2005/FocusGuard_Application/blob/main/FocusGuard/Project_Pics/task_and_app_selection.jpg?raw=true)  
+![Tasks](https://github.com/AnudeepReddy2005/FocusGuard_Application/raw/main/Project_Pics/task_and_app_selection.jpg?raw=true)
 
 **Block App**  
-![Block](https://github.com/AnudeepReddy2005/FocusGuard_Application/blob/main/FocusGuard/Project_Pics/block_app.jpg?raw=true)  
+![Block](https://github.com/AnudeepReddy2005/FocusGuard_Application/raw/main/Project_Pics/block_app.jpg?raw=true)
 
 **Report Login**  
-![Report Login](https://github.com/AnudeepReddy2005/FocusGuard_Application/blob/main/FocusGuard/Project_Pics/login1.jpg?raw=true)  
+![Report Login](https://github.com/AnudeepReddy2005/FocusGuard_Application/raw/main/Project_Pics/login1.jpg?raw=true)
 
 **Report**  
-![Report](https://github.com/AnudeepReddy2005/FocusGuard_Application/blob/main/FocusGuard/Project_Pics/report.jpg?raw=true)  
+![Report](https://github.com/AnudeepReddy2005/FocusGuard_Application/raw/main/Project_Pics/report.jpg?raw=true)
